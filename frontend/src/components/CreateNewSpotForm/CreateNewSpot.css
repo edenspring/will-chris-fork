@@ -62,9 +62,7 @@
   justify-content: center;
   margin-bottom: 1rem;
 }
-/* .form-row-data{
-  width: 75%;
-} */
+
 .form-row-data-label{
   display: flex;
   justify-content: space-between;

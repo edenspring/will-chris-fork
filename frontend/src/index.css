@@ -43,25 +43,13 @@ h1{
      0.4rem .4rem .1rem var(--red),
      0.4rem .4rem .1rem var(--blue),
      .5rem .5rem .5rem .1rem var(--grey);
-     /* 0.41rem .41rem .5rem var(--blue),
-     .42rem .42rem .42rem .5rem var(--grey); */
     background-color: var(--beige);
     padding:.5rem;
 }
 #subtitle{
     font-weight: 550;
     color: var(--blue);
-    /* box-shadow:
-    -0.1rem -.1rem .1rem var(--black),
-    -0.12rem -.12rem .11rem var(--green),
-    -0.13rem -.13rem .12rem var(--red),
-    -.14rem -.14rem .13rem var(--blue),
-    -.18rem -.18rem .18rem var(--grey),
-    0.1rem .1rem .1rem var(--blue),
-    .2rem .2rem .2rem .1rem var(--grey),
-    .23rem .23rem .23rem .1rem var(--red); */
     border-bottom: 1px solid var(--black);
-    /* background-color: var(--beige); */
     padding:.2rem;
 }
 h2{
@@ -83,7 +71,6 @@ form{
     color: var(--red);
     margin-top: 1rem;
     padding:1rem;
-    /* border: .1rem solid var(--red) */
 }
 #button{
     border: 1px solid var(--grey);
